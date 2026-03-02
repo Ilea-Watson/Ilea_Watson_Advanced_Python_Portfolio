@@ -5409,7 +5409,7 @@ plt.imshow(img)
 
 
 
-![png](output_7_1.png)
+![png](output_26_1.png)
 
 
 
@@ -5462,7 +5462,7 @@ plt.imshow(img_gray)
 
 
 
-![png](output_11_1.png)
+![png](output_11_2.png)
 
 
 
@@ -5510,7 +5510,7 @@ plt.imshow(new_img)
 
 
 
-![png](output_14_1.png)
+![png](output_14_2.png)
 
 
 
@@ -5547,7 +5547,7 @@ plt.imshow(new_img)
 
 
 
-![png](output_17_1.png)
+![png](output_17_2.png)
 
 
 
@@ -5578,7 +5578,7 @@ plt.imshow(flip_img)
 
 
 
-![png](output_19_1.png)
+![png](output_19_2.png)
 
 
 
