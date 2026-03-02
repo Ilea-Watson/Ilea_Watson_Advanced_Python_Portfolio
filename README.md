@@ -1,16 +1,16 @@
 # Ilea_Watson_Advanced_Python_Portfolio
 This is a portfolio of the python code that I completed during BISC 4503
 
-# Sequence Objects Pt. 1
-### Load package
+# Sequence Objects
+### Part 1
 
+Load package
 ```python
 from Bio.Seq import Seq
 ```
 
-
+Make a sequence object
 ```python
-# Make a sequence object
 my_seq = Seq("GATCG")
 ```
 
