@@ -1,9 +1,10 @@
 # Ilea_Watson_Advanced_Python_Portfolio
 This is a portfolio of the python code that I completed during BISC 4503
 
-```python
 # Sequence Objects Pt. 1
 # Load package
+
+```python
 from Bio.Seq import Seq
 ```
 
