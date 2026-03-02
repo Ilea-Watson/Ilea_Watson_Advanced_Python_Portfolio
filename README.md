@@ -2,7 +2,7 @@
 This is a portfolio of the python code that I completed during BISC 4503
 
 # Sequence Objects Pt. 1
-# Load package
+## Load package
 
 ```python
 from Bio.Seq import Seq
